@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(214, 212, 212);
+    color: black;
+}
+h1{
+    front-size: 50px;
+    color: rgb(55, 0, 255);
+}
+p {
+    front-size: 40px;
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 600px;
+    height: auto;
+}
